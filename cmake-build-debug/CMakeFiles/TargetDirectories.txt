@@ -1,0 +1,3 @@
+/Users/vladpuscaru/Documents/gmt/extra/sfml/kinematics/cmake-build-debug/CMakeFiles/Kinematics.dir
+/Users/vladpuscaru/Documents/gmt/extra/sfml/kinematics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vladpuscaru/Documents/gmt/extra/sfml/kinematics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
